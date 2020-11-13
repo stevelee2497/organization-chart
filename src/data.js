@@ -64,6 +64,28 @@ const data = [
           },
         ],
       },
+      {
+        id: 31,
+        name: "Gordon Clark",
+        position: "Senior Developer",
+        avatar: "https://randomuser.me/api/portraits/men/33.jpg",
+        children: [
+          {
+            id: 73,
+            name: "Harry Bell",
+            position: "Front-end",
+            avatar: "https://randomuser.me/api/portraits/women/3.jpg",
+            children: [],
+          },
+          {
+            id: 82,
+            name: "Matt Davies",
+            position: "Back-end",
+            avatar: "https://randomuser.me/api/portraits/women/5.jpg",
+            children: [],
+          },
+        ],
+      },
     ],
   },
 ];
