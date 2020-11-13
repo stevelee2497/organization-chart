@@ -28,7 +28,7 @@ const data = [
                 id: 7,
                 name: "Dan Butler",
                 position: "Senior Developer",
-                avatar: "https://randomuser.me/api/portraits/men/16.jpg",
+                avatar: "https://randomuser.me/api/portraits/men/17.jpg",
                 children: [],
               },
             ],
@@ -37,7 +37,7 @@ const data = [
             id: 6,
             name: "Dan Butler",
             position: "Senior Developer",
-            avatar: "https://randomuser.me/api/portraits/men/16.jpg",
+            avatar: "https://randomuser.me/api/portraits/men/42.jpg",
             children: [],
           },
         ],
@@ -46,7 +46,7 @@ const data = [
         id: 3,
         name: "Gordon Clark",
         position: "Senior Developer",
-        avatar: "https://randomuser.me/api/portraits/men/12.jpg",
+        avatar: "https://randomuser.me/api/portraits/men/65.jpg",
         children: [
           {
             id: 7,
